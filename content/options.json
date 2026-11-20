@@ -1,0 +1,10 @@
+{
+ "siteurl": "http://www.fidergrup.com",
+ "blogname": "Fider Grup",
+ "blogdescription": "Elektrik Mühendislik Hizmetleri",
+ "permalink_structure": "/%postname%/",
+ "template": "consultab",
+ "stylesheet": "consultab",
+ "show_on_front": "page",
+ "page_on_front": "414"
+}

@@ -1,0 +1,21 @@
+// Referans müşteri logoları (public/refs). Logoları ASCII dosya adlarıyla tutuyoruz.
+export const references = [
+  { name: "Shell", file: "shell.jpeg" },
+  { name: "Türk Kızılayı", file: "turk-kizilayi.jpg" },
+  { name: "DeFacto", file: "defacto.jpg" },
+  { name: "Ferro Metal", file: "ferro-metal.jpg" },
+  { name: "Petrotek", file: "petrotek.png" },
+  { name: "Keban Elektrik", file: "keban-elektrik.jpg" },
+  { name: "Zengin Kalıp", file: "zengin-kalip.jpg" },
+  { name: "Filler Otomotiv", file: "filler-otomativ.jpg" },
+  { name: "Sarılar", file: "sarilar.jpg" },
+  { name: "Saray Lojistik", file: "saray-lojistik.jpg" },
+  { name: "Prodeta", file: "prodeta.jpg" },
+  { name: "Farkon", file: "farkon.jpg" },
+  { name: "MTC Metal", file: "mtc-metal-1.jpg" },
+  { name: "Özgü Depolama Lojistik", file: "ozgunet-buyuk-harf-slogan-gri-0-1.jpg" },
+  { name: "Sarıoğulları", file: "sariogullari.png" },
+  { name: "Almetsan", file: "almetsan.jpg" },
+  { name: "Medical Park", file: "medicalpark-logo.png" },
+  { name: "Meyge Lojistik", file: "meyge-lojistik-768x319-3.jpg" },
+] as const;

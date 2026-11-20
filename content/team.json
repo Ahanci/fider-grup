@@ -1,0 +1,62 @@
+[
+ {
+  "id": 113,
+  "type": "consultabteam",
+  "slug": "handry-white",
+  "title": "Handry White",
+  "date": "2019-07-13",
+  "excerpt": "",
+  "image": "/uploads/2019/07/01-1.png",
+  "seoTitle": null,
+  "seoDescription": null,
+  "html": ""
+ },
+ {
+  "id": 115,
+  "type": "consultabteam",
+  "slug": "jhone-margh",
+  "title": "Anna Mull",
+  "date": "2019-07-13",
+  "excerpt": "",
+  "image": "/uploads/2019/07/04-1.png",
+  "seoTitle": null,
+  "seoDescription": null,
+  "html": ""
+ },
+ {
+  "id": 119,
+  "type": "consultabteam",
+  "slug": "watson-janck",
+  "title": "Petey Cruiser",
+  "date": "2019-07-13",
+  "excerpt": "",
+  "image": "/uploads/2019/07/05-1.png",
+  "seoTitle": null,
+  "seoDescription": null,
+  "html": ""
+ },
+ {
+  "id": 272,
+  "type": "consultabteam",
+  "slug": "jd",
+  "title": "Greta Life",
+  "date": "2019-07-16",
+  "excerpt": "",
+  "image": "/uploads/2019/07/02-2.png",
+  "seoTitle": null,
+  "seoDescription": null,
+  "html": ""
+ },
+ {
+  "id": 730,
+  "type": "consultabteam",
+  "slug": "marcash-dane",
+  "title": "Marcash Dane",
+  "date": "2019-07-25",
+  "excerpt": "",
+  "image": "/uploads/2019/07/03-1.png",
+  "seoTitle": null,
+  "seoDescription": null,
+  "html": ""
+ }
+]
