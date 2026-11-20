@@ -80,7 +80,10 @@ export function ReferenceMarquee() {
   return (
     <div
       className="marquee relative overflow-hidden"
-      style={{ maskImage: "linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)" }}
+      style={{
+        WebkitMaskImage: "linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)",
+        maskImage: "linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)",
+      }}
     >
       <ul className="marquee-track flex gap-4">
         {row.map((r, i) => (
