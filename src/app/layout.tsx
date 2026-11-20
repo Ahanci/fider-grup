@@ -49,7 +49,7 @@ const jsonLd = {
   description: site.description,
   url: site.url,
   logo: `${site.url}/logo.png`,
-  telephone: "+90 262 644 46 45",
+  telephone: "+90 262 644 56 45",
   email: site.email,
   foundingDate: String(site.founded),
   address: {

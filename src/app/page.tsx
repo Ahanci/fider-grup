@@ -63,7 +63,7 @@ export default async function Home() {
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted">
               Orta ve yüksek gerilimden trafo işletme sorumluluğuna, ölçümden arıza tespitine kadar
-              tesisinizin enerji altyapısını Gebze merkezli uzman kadromuzla yönetiyoruz.
+              tesisinizin enerji altyapısını Kocaeli merkezli uzman kadromuzla yönetiyoruz.
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Link

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Mail, MapPin, Phone, Printer, Smartphone } from "lucide-react";
+import { Mail, MapPin, Phone, Smartphone } from "lucide-react";
 import { services, site } from "@/lib/site";
 
 export function Footer() {
@@ -16,7 +16,7 @@ export function Footer() {
             className="h-10 w-auto rounded-md bg-white/95 px-2 py-1"
           />
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted">
-            {site.tagline}. {site.founded}&apos;dan beri Gebze / Kocaeli merkezli, tüm Türkiye&apos;ye
+            {site.tagline}. {site.founded}&apos;dan beri Çayırova / Kocaeli merkezli, tüm Türkiye&apos;ye
             hizmet.
           </p>
         </div>
@@ -78,10 +78,6 @@ export function Footer() {
               <a href={site.mobileHref} className="hover:text-fg">
                 {site.mobile}
               </a>
-            </li>
-            <li className="flex gap-3">
-              <Printer className="size-4 shrink-0 text-accent" />
-              <span>{site.fax}</span>
             </li>
             <li className="flex gap-3">
               <Mail className="size-4 shrink-0 text-accent" />

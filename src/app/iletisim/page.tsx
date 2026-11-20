@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { Mail, MapPin, Phone, Printer, Smartphone } from "lucide-react";
+import { Mail, MapPin, Phone, Smartphone } from "lucide-react";
 import { site } from "@/lib/site";
 import { PageHero } from "@/components/Blocks";
 import { ContactForm } from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title: "İletişim",
-  description: `${site.name} iletişim bilgileri: ${site.address.street}, Gebze / Kocaeli. Tel: ${site.phone}`,
+  description: `${site.name} iletişim bilgileri: ${site.address.street}, Çayırova / Kocaeli. Tel: ${site.phone}`,
   alternates: { canonical: "/iletisim" },
 };
 
@@ -15,7 +15,6 @@ export default function ContactPage() {
     { Icon: MapPin, label: "Adres", value: `${site.address.street}, ${site.address.city} / ${site.address.region}` },
     { Icon: Phone, label: "Telefon", value: site.phone, href: site.phoneHref },
     { Icon: Smartphone, label: "Cep", value: site.mobile, href: site.mobileHref },
-    { Icon: Printer, label: "Faks", value: site.fax },
     { Icon: Mail, label: "E-posta", value: site.email, href: `mailto:${site.email}` },
   ];
   return (

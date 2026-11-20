@@ -2,7 +2,7 @@
 
 # ⚡ Fider Grup
 
-**Elektrik Mühendislik Hizmetleri · Gebze / Kocaeli**
+**Elektrik Mühendislik Hizmetleri · Çayırova / Kocaeli**
 
 Eski WordPress sitesinin yerine geçen; hızlı, modern ve SEO dostu kurumsal web sitesi.
 
@@ -104,8 +104,8 @@ Firma bilgisi (telefon, adres, e-posta) ve hizmet metinleri yalnızca [`src/lib/
 | | |
 |---|---|
 | Firma | **Fider Grup** · Elektrik Mühendislik Hizmetleri · Kuruluş 2019 |
-| Adres | Hacı Halil Mah. 1212 Sok. No:5 Kat:6 No:64, Gebze / Kocaeli |
-| Telefon / Cep / Faks | 0262 644 46 45 · 0554 236 15 87 · 0262 644 56 45 |
+| Adres | Cumhuriyet Mah. Turgut Özal Cad. No:70 İç Kapı No:4, Çayırova / Kocaeli |
+| Telefon / Cep | 0262 644 56 45 · 0554 236 15 87 |
 | E-posta | info@fidergrup.com |
 
 ---

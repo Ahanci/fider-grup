@@ -3,22 +3,21 @@ export const site = {
   name: "Fider Grup",
   tagline: "Elektrik Mühendislik Hizmetleri",
   description:
-    "Fider Grup; orta ve yüksek gerilim, trafo işletme sorumluluğu, elektriksel ölçümler, arıza tespiti ve elektrik taahhüt hizmetlerinde Gebze / Kocaeli merkezli mühendislik firmasıdır.",
+    "Fider Grup; orta ve yüksek gerilim, trafo işletme sorumluluğu, elektriksel ölçümler, arıza tespiti ve elektrik taahhüt hizmetlerinde Çayırova / Kocaeli merkezli mühendislik firmasıdır.",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://fidergrup.com",
   founded: 2019,
   address: {
-    street: "Hacı Halil Mah. 1212 Sok. No:5 Kat:6 No:64",
-    city: "Gebze",
+    street: "Cumhuriyet Mah. Turgut Özal Cad. No:70 İç Kapı No:4",
+    city: "Çayırova",
     region: "Kocaeli",
     country: "TR",
   },
-  phone: "0262 644 46 45",
-  phoneHref: "tel:+902626444645",
+  phone: "0262 644 56 45",
+  phoneHref: "tel:+902626445645",
   mobile: "0554 236 15 87",
   mobileHref: "tel:+905542361587",
-  fax: "0262 644 56 45",
   email: "info@fidergrup.com",
-  mapsQuery: "Hacı Halil Mah. 1212 Sok. Gebze Kocaeli",
+  mapsQuery: "Cumhuriyet Mah. Turgut Özal Cad. No:70 Çayırova Kocaeli",
 } as const;
 
 export type ServiceIcon =
@@ -81,7 +80,7 @@ export const services: Service[] = [
       "Devreye alma testleri ve iç tesisat raporlaması",
     ],
     seoDescription:
-      "Kuvvetli akım tesisatları: alçak gerilim pano, aydınlatma, kablo ve topraklama işleri. Gebze ve Kocaeli merkezli elektrik mühendislik hizmeti.",
+      "Kuvvetli akım tesisatları: alçak gerilim pano, aydınlatma, kablo ve topraklama işleri. Kocaeli merkezli elektrik mühendislik hizmeti.",
   },
   {
     slug: "zayif-akim-sistemleri",
