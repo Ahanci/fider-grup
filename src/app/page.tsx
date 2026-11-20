@@ -73,7 +73,7 @@ export default async function Home() {
                 Teklif Al <ArrowRight className="size-5" />
               </Link>
               <Link
-                href="/hizmetler/orta-ve-yuksek-gerilim-sistemleri"
+                href="/hizmetler"
                 className="inline-flex items-center gap-2 rounded-full border border-accent/40 bg-accent/15 px-7 py-3.5 font-semibold text-fg shadow-[0_0_30px_-10px_var(--accent)] transition hover:border-accent hover:bg-accent/25 active:bg-accent/30"
               >
                 Hizmetlerimiz

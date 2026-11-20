@@ -186,7 +186,7 @@ export const services: Service[] = [
 
 export const nav = [
   { href: "/", label: "Ana Sayfa" },
-  { href: "/hizmetler/orta-ve-yuksek-gerilim-sistemleri", label: "Hizmetler", children: true },
+  { href: "/hizmetler", label: "Hizmetler", children: true },
   { href: "/hakkimizda", label: "Hakkımızda" },
   { href: "/referanslar", label: "Referanslar" },
   { href: "/makaleler", label: "Makaleler" },
